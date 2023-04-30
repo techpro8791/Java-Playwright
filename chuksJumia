@@ -1,0 +1,4 @@
+sign in -- //div[@class='-pam -hr-bb']//a
+account -- //a[contains(@class, '-df -i-ctr -pas -hov-bg-gy05 -hov-m') and normalize-space(text()) = 'My Account']
+order -- //a[contains(@class, '-df -i-ctr -pas -hov-bg-gy05 -hov-m') and normalize-space(text()) = 'Orders']
+saved item -- //a[contains(@class, '-df -i-ctr -pas -hov-bg-gy05 -hov-m') and normalize-space(text()) = 'Saved Items']
