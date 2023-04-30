@@ -1,0 +1,7 @@
+//div[@class='dpdw _pcent'][2]/div[@class='box -r']/div[@class='inbox']/a[@class='-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m'][1]
+//div[@class='dpdw _pcent'][2]/div[@class='box -r']/div[@class='inbox']/a[@class='-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m'][2]
+//div[@class='dpdw _pcent'][2]/div[@class='box -r']/div[@class='inbox']/a[@class='-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m'][3]
+//div[@class='dpdw _pcent'][2]/div[@class='box -r']/div[@class='inbox']/a[@class='-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m'][4]
+//div[@class='dpdw _pcent'][2]/div[@class='box -r']/div[@class='inbox']/a[@class='-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m'][5]
+//div[@class='dpdw _pcent'][2]/div[@class='box -r']/div[@class='inbox']/a[@class='-df -i-ctr -phm -pv12 -hov-bg-gy05 -hov-m'][6]
+//div[@class='dpdw _pcent'][2]/div[@class='box -r']/div[@class='inbox']/div[@class='-tac -hr _hx2 -fs0 -pam']/button[@class='btn _prim _md _i -fw']/span[text()='Live Chat']
