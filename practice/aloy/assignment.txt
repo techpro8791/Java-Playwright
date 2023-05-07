@@ -1,0 +1,2 @@
+to create two classes, one containing a main method and another called Persons. This Persons class needs to provide a family tree
+that can be called on the main class to show members of each family. Minimum of 6 mthods in Persons class. Submitted by midweek. 
