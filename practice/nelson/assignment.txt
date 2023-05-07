@@ -1,0 +1,2 @@
+to create two classes, one containing a main method and another called Nigeria. This Nigeria class needs to provide a 5 different states with their capitals 
+Minimum of 6 mthods in Persons class. Submitted by midweek. 
